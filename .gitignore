@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+.venv/
+
+# IPython NB Checkpoints
+.ipynb_checkpoints/
+
+# exclude data from source control by default
+/data/external
+/data/interim
+/data/processed
+/data/raw
+
+# Exclude models from being saved in the repository
+/models/
+
+# exclude external models from source control
+/src/external/
+
+# MacOS files
+*DS_Store
