@@ -21,7 +21,7 @@ Directory Structure
     ├── reports <- generated project artefacts eg. visualisations or tables
     │   ├── figures 
     │   └── raw <- original unmodified data acting as source of truth and 
-    └── pneumonia_vit_classifier
+    └── src
         ├── examples <- images used as examples in the HuggingFace Space
         ├── models  <- scripts for the prediction of the images
         ├── visualization  <- scripts to visualize the atttention vectors
